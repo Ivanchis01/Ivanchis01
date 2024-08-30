@@ -1,6 +1,6 @@
 # Hello there, I'm Ivan 👋
 
-Currently a Computer Science student :desktop_computer:.
+Currently, a Computer Science student :desktop_computer:.
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student with a keen interest in Data Science and Artificial Intelligence, especially in the application of deep learning techniques. I enjoy working with data to build models that can learn and make predictions, and I love exploring new challenges in this exciting field.
 
