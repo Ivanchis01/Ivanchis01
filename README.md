@@ -14,7 +14,7 @@ I'm currently deepening my knowledge in:
   - Deep Learning: Understanding neural network architectures and model optimization.
   - Data Science: Applying statistical methods and machine learning algorithms to real-world problems.
   - Advanced Python: Exploring Python's powerful libraries for data processing and machine learning.
-  - 
+   
 ##🤝 Let's Collaborate!
 I am always eager to learn new things and participate in exciting projects. If you have an idea or project related to AI, data science, or software development, I'd love to collaborate!
 <!--
